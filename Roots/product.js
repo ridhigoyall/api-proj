@@ -8,3 +8,5 @@ router.route("/").get(getAllProducts);
 router.route("/testing").get(getAllProductsTesting);
 
 module.exports = router;
+
+// checking github
